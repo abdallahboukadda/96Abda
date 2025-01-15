@@ -38,4 +38,4 @@ I'm a <strong>passionate full-stack developer</strong> who loves building <stron
 - He/Him
 
 ### ⚡ Fun Fact:
-I'm a huge fan of programming, and I love learning new strategies for core programming languages.
+I'm a huge fan of programming, and I love learning new strategies for core programming languages..
